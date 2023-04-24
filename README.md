@@ -1,7 +1,7 @@
 # SSI2023_PFNet_Plus
 
 ## Distraction-Aware Camouflaged Object Segmentation
-[Haiyang Mei](https://mhaiyang.github.io/), [Xin Yang](https://xinyangdut.github.io/), Yunduo Zhou, Ge-Peng Ji, Xiaopeng Wei, [Deng-Ping Fan](http://dpfan.net/)
+[Haiyang Mei](https://mhaiyang.github.io/), [Xin Yang](https://xinyangdut.github.io/), Yunduo Zhou, [Ge-Peng Ji](https://gewelsji.github.io/), Xiaopeng Wei, [Deng-Ping Fan](http://dpfan.net/)
 
 [[Paper]()] [[Project Page](https://mhaiyang.github.io/SSI2023-PFNet-Plus/index.html)]
 
